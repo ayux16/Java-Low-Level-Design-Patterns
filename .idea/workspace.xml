@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79a7c8d0-2e9e-4ed1-b6fc-0af6faaa3658" name="Changes" comment="Factoy etc...">
+      <change afterPath="$PROJECT_DIR$/Prototype_With_Registory_March/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype_With_Registory_March/InteligentStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype_With_Registory_March/Registery/StudentRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype_With_Registory_March/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core Jaba.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/ADAPTER_DESIGN_PATTERN_MARCH/Adapter/BankInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/ADAPTER_DESIGN_PATTERN_MARCH/Adapter/YesBankAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/ADAPTER_DESIGN_PATTERN_MARCH/Adapter/sbiAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/ADAPTER_DESIGN_PATTERN_MARCH/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/ADAPTER_DESIGN_PATTERN_MARCH/SimpleFactory/SelectBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/ADAPTER_DESIGN_PATTERN_MARCH/thirdPartyApp/SBI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/ADAPTER_DESIGN_PATTERN_MARCH/thirdPartyApp/YesBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/AdapterPAttern/BankApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/AdapterPAttern/BanksThirdParty/ICICIBANK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/AdapterPAttern/BanksThirdParty/YesBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/AdapterPAttern/ICICIBankAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/AdapterPAttern/PhonPe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/AdapterPAttern/YesBankAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/BuilderPattern/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/BuilderPattern/Student$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/BuilderPattern/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Core Jaba.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/Factory/PlatformSimpleFactory/PlatformFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/Factory/UICOMPONENTFACTORY/AndroidUiComponentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/Factory/UICOMPONENTFACTORY/IOSUiComponentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/Factory/UICOMPONENTFACTORY/UIComponents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/Int/Android.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/Int/IOS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/Int/Platform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/UIComponents/Button/AndroidButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/UIComponents/Button/IOSButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/UIComponents/Button/button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/UIComponents/Dropdown/AndroidDropdown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/UIComponents/Dropdown/DropDown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/UIComponents/Dropdown/IOSDropdown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/UIComponents/Menu/AndroidMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/UIComponents/Menu/IOSMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryDesignPatterMarch/UIComponents/Menu/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Component/AndroidButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Component/AndroidMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Component/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Component/IOSButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Component/IOSmenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Component/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Factory/AndroidComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Factory/AndroidComponentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Factory/IOSComponentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Factory/IosComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Factory/UIComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/FactoryPattern/Factory/UIComponentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/MergeSortInMultiThread/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/MergeSortInMultiThread/mergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Mutex_AdderSubtractorProblemSynchronization/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Mutex_AdderSubtractorProblemSynchronization/adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Mutex_AdderSubtractorProblemSynchronization/client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Mutex_AdderSubtractorProblemSynchronization/subtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Observer/Amazon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Observer/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Observer/DeliveryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Observer/GenerateInvoice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Observer/InventoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Observer/NotifySeller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Observer/OnOrderPlacedSubscribers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Prototype/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Prototype/InteligentStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Prototype/Prototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Prototype/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Prototype/StudentRegistery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/StrategyDesignPatternMarch/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/StrategyDesignPatternMarch/SimpleFactory/SelectSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/StrategyDesignPatternMarch/StrategyPattern/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/StrategyDesignPatternMarch/StrategyPattern/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/StrategyDesignPatternMarch/StrategyPattern/Sorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/StrategyPattern/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/StrategyPattern/Component/BikePathCalulcator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/StrategyPattern/Component/CarPathCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/StrategyPattern/Component/PathCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/StrategyPattern/Component/WalkPathCalulcator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/StrategyPattern/Factory/FindPathCaluclator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/StrategyPattern/GoogleMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Synchronized_Keyword_lock_AdderSubtractorProblemSynchronization/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Synchronized_Keyword_lock_AdderSubtractorProblemSynchronization/adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Synchronized_Keyword_lock_AdderSubtractorProblemSynchronization/client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Synchronized_Keyword_lock_AdderSubtractorProblemSynchronization/subtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Thread/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Jaba/Thread/Test.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/incarnation/IdeaProjects/Low Level design Project/Design_Patterns" value="3Ash8iIirqLy76XeawETRNS7HLL" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ayush Verma &lt;=&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ayux16&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ayux16/Java-Low-Level-Design-Patterns.git&quot;,
+    &quot;accountId&quot;: &quot;e042bd29-1f56-455e-adac-39dc88b536c6&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3Ash8iIirqLy76XeawETRNS7HLL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ADAPTER_DESIGN_PATTERN_MARCH.Client.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.FactoryDesignPatterMarch.Client.executor": "Run",
+    "Application.Prototype_With_Registory_March.Client.executor": "Debug",
+    "Application.StrategyDesignPatternMarch.Client.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Prototype_With_Registory_March.Client">
+    <configuration name="ADAPTER_DESIGN_PATTERN_MARCH.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ADAPTER_DESIGN_PATTERN_MARCH.Client" />
+      <module name="Core Jaba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ADAPTER_DESIGN_PATTERN_MARCH.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuilderPattern.Client" />
+      <module name="Core Jaba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BuilderPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryDesignPatterMarch.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryDesignPatterMarch.Client" />
+      <module name="Core Jaba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryDesignPatterMarch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prototype_With_Registory_March.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prototype_With_Registory_March.Client" />
+      <module name="Core Jaba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prototype_With_Registory_March.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyDesignPatternMarch.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrategyDesignPatternMarch.Client" />
+      <module name="Core Jaba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StrategyDesignPatternMarch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Prototype_With_Registory_March.Client" />
+        <item itemvalue="Application.StrategyDesignPatternMarch.Client" />
+        <item itemvalue="Application.ADAPTER_DESIGN_PATTERN_MARCH.Client" />
+        <item itemvalue="Application.FactoryDesignPatterMarch.Client" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79a7c8d0-2e9e-4ed1-b6fc-0af6faaa3658" name="Changes" comment="" />
+      <created>1773387027225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773387027225</updated>
+      <workItem from="1773387028292" duration="4550000" />
+      <workItem from="1774420472424" duration="19459000" />
+    </task>
+    <task id="LOCAL-00001" summary="Factoy etc...">
+      <option name="closed" value="true" />
+      <created>1774614582183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774614582183</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Factoy etc...">
+      <option name="closed" value="true" />
+      <created>1774614591400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774614591400</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="unvirsoned files" />
+    <MESSAGE value="Factoy etc..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Factoy etc..." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BuilderPattern/Student.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AdapterPAttern/ICICIBankAdapter.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
